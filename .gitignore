@@ -1,0 +1,10 @@
+# IDEs and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local datasets (load them through the Data Loading tab instead)
+*.csv
+*.txt
+!requirements.txt
